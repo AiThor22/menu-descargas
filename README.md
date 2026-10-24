@@ -6,6 +6,7 @@ Repositorio público solo para descargar el APK de Android de la app de menús (
 
 | Versión | Fecha | SHA-1 del APK |
 | --- | --- | --- |
+| 1.0.0 · app completa | 24-oct-2026 | `36cfb587adec9d725cf29097ff7530aa8817ebe9` |
 | 0.2.0 · prueba técnica 2 (con servidor configurado) | 23-oct-2026 | `1c6c506c770ff5b1a4266769f54c79a4b74d6ffb` |
 | 0.2.0 · prueba técnica 1 (sin servidor) | 23-oct-2026 | `e66dd5d54d7f4eee52a648115666e572b117851d` |
 
